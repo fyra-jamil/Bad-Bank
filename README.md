@@ -1,40 +1,46 @@
-# Getting Started with Banking System App
+# Bad Bank Project
 
-## Available Scripts
+## Description/Motivation
+
+This project is a banking application simulation that allow users to deposit, withdraw, view remaining account balance and create account. 
+
+Its purpose is to help me gain skills in JavaScript and NodeJS in this project.
+
+## Installation Guidelines
+
+First of all, you can download all the source code from this GitHub and access to this source code file in your local environment by using console (such as Command Prompt for Windows OS and Terminal for Mac OS)
 
 In the project directory, you can run:
 
-### `npm start`
+ ```npm start```
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+The page will reload if you make edits.
 
-### `npm test`
+## Screenshots
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://user-images.githubusercontent.com/32829952/149511806-d3e288cb-8ff0-4c01-a6aa-6e8e43e3c815.png)
 
-### `npm run build`
+## Technology Used
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+In this project, we use this :
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Software Used :
+* Visual Studio Code
+* npm
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Programming Language Used :
+* JavaScript
+*
 
-### `npm run eject`
+## Features
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+The features are toallow users to deposit, withdraw, view remaining account balance and create account. 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+For the future improvement, I am planning to add more features such as transferring money to other account, delete account, and account setting.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## License
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-
+This project is under MIT license.
