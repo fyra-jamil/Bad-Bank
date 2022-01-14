@@ -33,7 +33,8 @@ In this project, we use this :
 
 ### Programming Language Used :
 * JavaScript
-*
+* HTML
+* CSS
 
 ## Features
 
